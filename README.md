@@ -1,7 +1,5 @@
 # tuto-git-eds
 Tutorial for git in EDS
 
-Modified By A.
-
-
+Modified by User B and user A.
 Add an other modification
